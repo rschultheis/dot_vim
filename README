@@ -1,0 +1,8 @@
+= Robs .vim directory
+
+Instalation:
+
+    git clone this repo into home directory
+
+    ln -s ~/.vim/vimrc ~/.vimrc
+
