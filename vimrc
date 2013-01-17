@@ -10,3 +10,4 @@ set expandtab
 set nowritebackup
 set nobackup
 
+filetype plugin on
